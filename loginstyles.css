@@ -1,0 +1,103 @@
+*{
+    font-family:"Times New Romans";
+}
+
+
+.container {
+    text-align:center;
+}
+
+.navbar-text,a {
+    background-color:rgb(0,0,0);
+    font-size: 150%;
+}
+
+
+li{
+    border-radius:65%;
+}
+
+#header{
+    height:10%;
+}
+
+
+#logo{
+    width:75%;
+    height:500%;
+    margin:0;
+    margin-top: -30px;
+    padding:0;
+}
+
+#already{
+    font-size:150%;
+    color:rgb(250,200,0);
+}
+
+
+.input{
+    height: 25px;
+    width: 125px;
+    border-radius: 75px;
+}
+
+
+#newbar{
+    position:fixed;
+    float:left;
+    left:0;
+    top:20%;
+    align-items: center;
+    width: 23%;
+    height:70%;
+    background-color: rgba(32,178,170,0.7);
+}
+
+
+
+#SignUp{
+    top: 350px;
+    right: 200px;
+    background: rgba(30,170,170,0.9);
+}
+
+#Or{
+    top: 400px;
+    right: 275px;
+}
+
+#fb{
+    height: 30px;
+    width: 30px;
+    background-image:url(http://atlassolartex.com/communities/7/000/001/527/217//images/8051732_30x30.jpg); 
+}
+
+#tw{
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+    background-image:url(http://hasebikes.com/files/twitter-30x30.png); 
+
+}
+
+#goog{
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+    background-image:url(https://www.gliffy.com/_ui/images/icn-googleplus-30x30.png); 
+
+}
+
+#page{
+    margin-left: 25%;
+    margin-top:12%;
+}
+
+#About{
+    position: fixed;
+    bottom:0px;
+    height: 10%;
+    width:100%;
+    background: rgba(255,0,0,0.6);
+}  

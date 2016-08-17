@@ -1,0 +1,55 @@
+/*#About{
+	height: 10%;
+	width:100%;
+	background: rgba(75,0,130,0.6);
+	margin:auto;
+	position: fixed;
+  	bottom: 0px;
+  	right: 0px;
+}*/
+
+#Message{
+	position: fixed;
+  	top: 150px;
+  	right: 700px;
+}
+#Send{
+	position: fixed;
+  	top: 85%;
+  	right: 50%;
+}
+#Name{
+	position: fixed;
+  	top: 50%;
+  	right: 87%;
+}
+#Email{
+	width: 30%;
+	position: fixed;
+  	top: 50%;
+  	right: 50%;
+}
+#Message{
+	height: 25%;
+	width: 50%;
+	position: fixed;
+  	top: 60%;
+  	right: 50%;
+}
+
+
+#Contact{
+	font-family: "Times New Roman";
+	font-size: 150%;
+	position: fixed;
+  	top: 30%;
+}
+
+#LOGO{
+	background-color: rgba(75,0,130,0.6);
+	width: 30%;
+	height: 70%;
+	position: fixed;
+  	top: 20%;
+    right: 2%;
+}
